@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "DESIGN.md Style Extractor - TypeUI",
+  "name": "DESIGN.md Generator - TypeUI",
   "description": "Extract page styles and generate DESIGN.md or SKILL.md files and use it with Google Stitch, Claude, Codex, and Cursor.",
   "version": "0.1.0",
   "homepage_url": "https://www.typeui.sh",
@@ -11,7 +11,7 @@
     "downloads"
   ],
   "action": {
-    "default_title": "DESIGN.md Style Extractor - TypeUI",
+    "default_title": "DESIGN.md Generator - TypeUI",
     "default_popup": "popup/popup.html",
     "default_icon": {
       "16": "assets/icons/icon16.png",
