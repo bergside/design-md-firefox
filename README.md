@@ -2,7 +2,7 @@
 
 This Firefox extension extracts styles and information from a given site and generates a `DESIGN.md` or `SKILL.md` file that you can use with tools such as Google Stitch, Claude Code, Codex, and others to build websites with a given design system blueprint. The file is based on the open-source [TypeUI DESIGN.md](https://www.typeui.sh/design-md) format.
 
-<img width="599" height="592" alt="Screenshot 2026-04-16 at 21 27 09" src="https://github.com/user-attachments/assets/6ba14eac-17a1-4577-83f2-213fedb9d152" />
+<img width="1200" height="630" alt="designmdfirefox" src="https://github.com/user-attachments/assets/2b3b9b53-ccc7-4121-9a31-ff512c82c229" />
 
 ## Getting started
 
